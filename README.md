@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
 <!---LeetCode Topics End-->
