@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0507-perfect-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0507-perfect-number) |
 | [0755-reach-a-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0755-reach-a-number) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3817-maximum-containers-on-a-ship) |
 ## Array
 |  |
 | ------- |
