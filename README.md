@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Simulation
 |  |
@@ -92,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
