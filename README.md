@@ -91,9 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
