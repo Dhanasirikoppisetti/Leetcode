@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0507-perfect-number) |
 | [0755-reach-a-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0755-reach-a-number) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3817-maximum-containers-on-a-ship) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
