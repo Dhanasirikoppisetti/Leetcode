@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0151-reverse-words-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
