@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0055-jump-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0151-reverse-words-in-a-string) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0215-kth-largest-element-in-an-array) |
