@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0151-reverse-words-in-a-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0164-maximum-gap) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
