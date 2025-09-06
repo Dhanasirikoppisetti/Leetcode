@@ -1,19 +1,27 @@
 class Solution {
     public long minimumSteps(String s) {
-        int count=0;
-        long steps=0;
-     char[] chars=s.toCharArray();
-     for(int i=chars.length-1;i>=0;i--)
-     {
-        if(chars[i]=='0')
+      long count=0;
+      char[] str=s.toCharArray();
+       int left=0;
+      int right=str.length-1;
+      while(left<right)
+      {
+        if(str[left]=='1' && str[right]=='0')
         {
-            count++;
+            count+=(right-left);
+            left++;
+            right--;
+        }
+        else if(str[left]=='0')
+        {
+            left++;
         }
         else
         {
-            steps+=count;
+            right--;
         }
-     }
-     return steps;
+
+      }
+      return count;
     }
 }
