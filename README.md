@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0507-perfect-number) |
 | [0755-reach-a-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0755-reach-a-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3830-find-closest-person) |
 ## Array
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
 ## Binary Search
