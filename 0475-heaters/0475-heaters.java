@@ -2,18 +2,16 @@ class Solution {
     public int findRadius(int[] houses, int[] heaters) {
         Arrays.sort(houses);
         Arrays.sort(heaters);
-        int max_range=0;
-        for(int i=0;i<houses.length;i++)
-        {
-            int min_dist = Integer.MAX_VALUE;
-            for(int j=0;j<heaters.length;j++)
-            {
-                int range=Math.abs(houses[i]-heaters[j]);
-                min_dist=Math.min(range,min_dist);
-
+        int i = 0, j = 0, res = 0;
+        while (i < houses.length) {
+            while (j < heaters.length - 1
+                && Math.abs(heaters[j + 1] - houses[i]) <= Math.abs(heaters[j] - houses[i])) {
+                j++;
             }
-            max_range=Math.max(max_range,min_dist);
+            res = Math.max(res, Math.abs(heaters[j] - houses[i]));
+            i++;
         }
-        return max_range;
+        
+        return res;
     }
 }
