@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0414-third-maximum-number) |
+| [0475-heaters](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0475-heaters](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0755-reach-a-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0755-reach-a-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0475-heaters](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0414-third-maximum-number) |
+| [0475-heaters](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
