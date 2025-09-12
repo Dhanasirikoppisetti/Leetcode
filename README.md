@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0507-perfect-number) |
 | [0755-reach-a-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0755-reach-a-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3462-vowels-game-in-a-string) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3830-find-closest-person) |
 ## Array
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0319-bulb-switcher) |
+| [3462-vowels-game-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0151-reverse-words-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3195-separate-black-and-white-balls) |
+| [3462-vowels-game-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0042-trapping-rain-water) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
