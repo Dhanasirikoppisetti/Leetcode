@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
