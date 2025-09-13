@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3195-separate-black-and-white-balls](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
+| [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
 | [3195-separate-black-and-white-balls](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
