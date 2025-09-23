@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
+| [1310-watering-plants](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1310-watering-plants) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1310-watering-plants](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1310-watering-plants) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2228-watering-plants-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2228-watering-plants-ii) |
 ## Prefix Sum
