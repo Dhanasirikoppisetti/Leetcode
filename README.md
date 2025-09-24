@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0043-multiply-strings) |
 | [0319-bulb-switcher](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0507-perfect-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0043-multiply-strings) |
 | [1310-watering-plants](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1310-watering-plants) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2228-watering-plants-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2228-watering-plants-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0165-compare-version-numbers) |
 | [3195-separate-black-and-white-balls](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3195-separate-black-and-white-balls) |
