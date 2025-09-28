@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0507-perfect-number) |
 | [0755-reach-a-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0755-reach-a-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3462-vowels-game-in-a-string) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3817-maximum-containers-on-a-ship) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1018-largest-perimeter-triangle) |
 | [1310-watering-plants](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1310-watering-plants) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1018-largest-perimeter-triangle) |
 | [3195-separate-black-and-white-balls](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
