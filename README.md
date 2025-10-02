@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0755-reach-a-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0755-reach-a-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0198-house-robber) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -193,4 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0209-minimum-size-subarray-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
