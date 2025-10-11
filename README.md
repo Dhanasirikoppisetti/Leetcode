@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2228-watering-plants-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2228-watering-plants-ii) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0755-reach-a-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2228-watering-plants-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2228-watering-plants-ii) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3195-separate-black-and-white-balls](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1018-largest-perimeter-triangle) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3195-separate-black-and-white-balls](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
