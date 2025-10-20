@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2228-watering-plants-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2228-watering-plants-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Binary Search
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0043-multiply-strings) |
 | [1310-watering-plants](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1310-watering-plants) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Dhanasirikoppisetti/newrep/tree/master/1657-find-the-winner-of-an-array-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2228-watering-plants-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2228-watering-plants-ii) |
 | [3336-water-bottles-ii](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Dhanasirikoppisetti/newrep/tree/master/0165-compare-version-numbers) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Dhanasirikoppisetti/newrep/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3195-separate-black-and-white-balls) |
 | [3462-vowels-game-in-a-string](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dhanasirikoppisetti/newrep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
